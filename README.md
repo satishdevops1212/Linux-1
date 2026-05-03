@@ -14,3 +14,20 @@ ex : ext4 - current standrad linux, ext3 - olderlinux , NTFS - New technology fi
 /bin, /usr/bin - commands, scripts, /sbin - file system commands
 sudo -su it will tranfers to root user or cd /
 
+_____________________________________________________________
+
+pwd 
+
+cd : 
+
+ls : ls -R, ls -al [ includes with permissions] , Ls -Ltr
+
+cat - cat .profile 
+
+cp - cp file2.txt file3.txt
+
+mv - mv file3.txt file4.txt , ls -l [ check the output]
+
+mkdir - mkdir aspin, cd aspin, pwd
+
+rm
