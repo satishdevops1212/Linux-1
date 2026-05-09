@@ -28,6 +28,19 @@ cp - cp file2.txt file3.txt
 
 mv - mv file3.txt file4.txt , ls -l [ check the output]
 
-mkdir - mkdir aspin, cd aspin, pwd
+mkdir - mkdir aspin, cd aspin, pwd, coping directories - cp -R directory1 directory2
 
 rm
+
+password change - passwd userid
+
+Locate uses a prebulid database which should be regularly updated, while find iterates over a filesystem to locate files, locate is much faster than find, but it can be inacurate if the db is updated regularly, to update locate run updatedb
+
+wildcard charecters - * represents zero or more charecters, [] range of charecters, ? is single charecters
+rm abc* - it removes all files with abc names,
+touch abcd[1..9]-xyz,  
+
+
+_____________________________________________________________
+
+
